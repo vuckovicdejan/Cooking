@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://C:/Programi/Programming/Spring_libs_logger/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar!/" />
+      <root url="file://C:/Programi/Programming/Spring_libs_logger/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/Programi/Programming/Spring_libs_logger/lib" recursive="false" />
+  </library>
+</component>
